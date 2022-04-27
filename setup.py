@@ -16,7 +16,7 @@ with open('HISTORY.md') as history_file:
 
 setup(
     name='bnsobol',
-    version='0.1.0',
+    version='0.1.1',
     description="Variance-based Sensitivity Analysis of Bayesian Networks",
     long_description="bnsobol computes the main Sobol indices of a function defined by a Bayesian network.",
     url='https://github.com/rballester/bnsobol',
